@@ -39,3 +39,4 @@ out/
 *.yaml
 *.yml
 *.properties
+**/application.yaml
